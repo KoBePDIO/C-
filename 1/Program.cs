@@ -114,13 +114,7 @@ namespace _1
             ix.IxF0(2.5);
             ix.IxF1();
 
-            Console.WriteLine(" Через Iy ");
-            iy.F0(3.3);
-            iy.F1();
-
-            Console.WriteLine(" Через Iz ");
-            iz.F0(4.4);
-            iz.F1();
+          
         }
     }
 }
